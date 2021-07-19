@@ -1,0 +1,21 @@
+# Table of contents
+
+* [开篇](README.md)
+* [架构篇](jia-gou-pian.md)
+* [示例篇](shi-li-pian.md)
+* [分析篇](fen-xi-pian.md)
+* [重构方法篇](zhong-gou-fang-fa-pian.md)
+* [测试篇](ce-shi-pian.md)
+* [解耦重构演示篇\(一\)+视频演示](jie-ou-zhong-gou-yan-shi-pian-yi-+-shi-pin-yan-shi.md)
+* [依赖注入篇](yi-lai-zhu-ru-pian.md)
+* [路由篇](lu-you-pian.md)
+* [解耦重构演示篇（二）](jie-ou-zhong-gou-yan-shi-pian-er.md)
+* [制品管理篇](zhi-pin-guan-li-pian.md)
+* [编译调试篇](bian-yi-tiao-shi-pian.md)
+* [MVP重构示例篇](mvp-zhong-gou-shi-li-pian.md)
+* [Kotlin+MVVM重构示例篇](kotlin+mvvm-zhong-gou-shi-li-pian.md)
+* [数据库重构示例篇](shu-ju-ku-zhong-gou-shi-li-pian.md)
+* [Gradle依赖管理篇](gradle-yi-lai-guan-li-pian.md)
+* [流水线设计篇](liu-shui-xian-she-ji-pian.md)
+* [总结篇](zong-jie-pian.md)
+
